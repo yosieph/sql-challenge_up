@@ -12,6 +12,9 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Data Engineering
 
+https://app.quickdatabasediagrams.com/#/d/grMMdn
+
+
     Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
         Remember to specify the data types, primary keys, foreign keys, and other constraints.
